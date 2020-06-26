@@ -1,0 +1,56 @@
+body {
+    
+    background-color: lightblue
+
+}
+
+h1 {
+
+font-size: 7em;
+
+text-align: center;
+
+border: 8px solid gold;
+
+background: blue;
+
+color: darkorange;
+
+    }
+
+h2 {
+
+color: darkgoldenrod;
+
+background: lightblue;
+
+text-align: center
+}
+
+ html   {
+background: lightblue;
+
+text-align: center;
+
+    }
+
+ul{
+list-style-image: url(/images/goldStar.png);
+
+text-align: center;
+  
+}
+
+h3 {
+
+color: gold;
+}
+
+footer {
+
+background: fuchsia;
+
+text-decoration-color: fuchsia;
+
+border: 8px solid gold;
+}
